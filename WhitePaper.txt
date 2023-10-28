@@ -1,0 +1,24 @@
+The problem: In the DEFI space today, new users are seen as targets and become victims of scams. This is due to the acts of many projects portraying to be the next BTC. Instead many of them just lure investors in and take advantage of the lack of knowledge and are rarely truthful to their communities. They fail to answer simple questions and to provide updates. Therefore the entire industry suffers, and confidence is lost, and then untimely... the investor.
+
+The solution: To provide a very low tax tokenomics model, transparency, and low gas fees on the Cronos Block Chain. 
+
+Additionally, with open lines of organic communication, we will set out to talk about the importance of knowing the Crypto Jargon such as: Circulating supply, Market Caps, Partnerships, white papers, road maps, types of block chains, use cases, cold storage wallets, hot wallets, seed phrases, nodes, and more.
+
+Why the Cronos Blockchain? Affordability.
+
+Cronos will Dominate DeFi TVL. With a community roadmap for 2023, the network aims and is projected to be one of the top 5 public blockchains by TVL.  
+
+Cronos has already devised  ways to do this by providing  better infrastructure for developers, better interoperability, and  expansion of its DeFi, Metaverse, GameFi, and NFT ecosystems.
+
+Ethereum + Cosmos
+An EVM that’s built for interoperability and offers low cost 
+(less than 1 USD per transaction), high throughput.
+
+Scalable
+Tender-mint can process more transactions per minute than competitive  blockchains. This has enabled Cronos to be faster, cheaper, and greener to execute smart contracts.
+ 
+Interoperable
+IBC is a protocol that allows blockchains to talk to each other; it  can transfer value, interchange assets and services, and connect without running into the scaling issues that are inherent in some of the largest blockchains today.
+ 
+Easy Deployment
+A portable Web3 app code with libraries and standards from/to any EVM chain. Developers can easily deploy DApps on Cronos with the various tools Cronos provides.
